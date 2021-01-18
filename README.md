@@ -9,4 +9,5 @@ A python script to download all the available episodes of anime from (4anime.to)
  - pip install requests
  - pip install tqdm
  
-#### currently only supports windows. to use in other operating system like mac, linux, android. edit the script and change the download path on line (142).
+#### Tested on: Windows and Linux. 
+ - in case you encountered a problem running on different os, try to change the download path on line (142).
